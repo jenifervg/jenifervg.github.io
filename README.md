@@ -5,11 +5,10 @@ Hello! I'm a researcher, student leader, and aspiring UX designer.
 Below you'll find my academic and creative projects.
 
 ## Technical Projects
-* Final Project for *Writing with Algorithms* - in progress
+* [Final Project for *Writing with Algorithms* - in progress](https://github.com/jenifervg/ENGL-3695-Final-Project)
 
 ## Undergraduate Research
 * Honors Thesis/University Scholar Project - in progress
-* Survey Research and Results - in progress
 * [Research Presentation](https://github.com/jenifervg/jenifervg.github.io/blob/main/Fall%202020%20Presentation.pdf)
 
 ## Related Coursework
