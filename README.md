@@ -22,3 +22,6 @@ Below you'll find my academic and creative projects.
 ## Featured Publications
 * [SURF Grant - Summer 2020](https://history.uconn.edu/2020/05/22/jenifer-gaitan-hist-stamford-awarded-surf-grant/)
 * [Viewbook 2020-21](https://admissions.uconn.edu/sites/default/files/2020-21-viewbook.pdf#page=16)
+
+
+Let's connect on  [![linkedin](linkedin.png)](https://www.linkedin.com/in/jenifer-rojas-orellana/)  and checkout my work at    [![github](github.png)](https://github.com/jenifervg)
