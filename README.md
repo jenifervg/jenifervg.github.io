@@ -1,6 +1,6 @@
 # Welcome to my personal website.
 
-Hello! I'm a researcher, student leader, and aspiring UX designer.
+Hello! I'm a researcher and student leader looking for her next job opportunity.
 
 Below you'll find my academic and creative projects.
 
